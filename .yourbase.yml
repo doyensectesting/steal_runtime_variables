@@ -6,7 +6,7 @@ build_targets:
   - name: default
     commands:
       - env
-      - python -c "print('STOLEN')"
+      - python -c "print('STOLEN!')"
 
 ci:
   builds:
